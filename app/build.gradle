@@ -28,6 +28,6 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
     // Tess-Two OCR
-    implementation 'com.rmtheis:tess-two:9.0.0'
+    implementation 'com.rmtheis:tess-two:7.0.0'
 
 }
